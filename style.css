@@ -1,0 +1,78 @@
+*{
+    padding: 0;
+    margin: 0;
+    
+    
+}
+body{
+    background:#dfe4ea;
+}
+.img-logo {
+    width: 9rem;
+    position: absolute;
+    top:-10px;
+}
+.heading-part {
+    background-color:#7f8fa6;
+    
+}
+
+.menubar li:hover {
+    background-color:#2980b9;
+}
+.menubar li {
+padding: 0px 20px;
+}
+.dropdown-menu {
+
+    box-shadow: 5px 5px 12px 0px grey;
+}
+.fa-home {
+    color: white;
+}
+.trendings {
+    font-family: cursive;
+}
+
+/* RIGHT-PART-CSS */
+.latest {
+    width: 
+    250px;
+    background-color: #34495e;
+    height: 50px;
+    margin:12px;
+    border-radius: 8px;
+}
+.news {
+    background-color:#1abc9c;
+    height: 100px;
+    width: 220px;
+    margin: 25px;
+    border-radius: 15px;
+}
+.news1{
+    background-color: #3498db;
+    height: 100px;
+    width: 220px;
+    margin: 25px;
+    border-radius: 15px;
+}
+.news2{
+
+    background-color: #95a5a6;
+    height: 100px;
+    width: 220px;
+    margin: 25px;
+    border-radius: 15px;
+}
+
+
+/* Left-part-css */
+
+.left-part {
+    background: linear-gradient(grey, #99d6d6,rgb(211, 209, 209) );
+    
+}
+.apart {
+    font-size: 17px;
+}
